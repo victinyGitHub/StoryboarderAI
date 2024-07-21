@@ -1,5 +1,5 @@
 # StoryboarderAI
-This was a joint project with Josh Killa and Pranav Chaganty in a hackathon. This is a repost of our original repo which had our API keys hardcoded in so this is one without them. Clone and change to your own API keys for this to work.
+This was a joint project with Josh Killa @JoshSkilla and Pranav Chaganty @xtreme5351 in a hackathon. This is a repost of our original repo which had our API keys hardcoded in so this is one without them. Clone and change to your own API keys for this to work.
 
 Storyboarder AI is heavily inspired by the Smallville paper by the people at Stanford, but we wanted to make a framework to allow people to easily make games with similar capabilities, which essentially means LLM powered NPC characters but which have reliable long term memory and retrieval of in game events, and in particular we started by making this framework work for decisions matter games, with story nodes being influenced by your conversation with the NPCs. Conversations and chats can be whatever you want, but we designed this system so developers can use prompt engineering to listen for certain triggers or thresholds e.g. convincing an AI that you're a good person or etc.
 
